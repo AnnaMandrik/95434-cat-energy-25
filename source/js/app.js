@@ -6,4 +6,3 @@ getMenuOpenClose();
 
 const slider = document.querySelector('.slider');
 const sliderButton = slider.querySelector('.slider__button');
-

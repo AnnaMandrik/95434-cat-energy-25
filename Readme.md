@@ -2,7 +2,7 @@
 
 Кэт энерджи — Интернет-магазин фитнес еды для котиков. Реализован макет трех видов сайта на мобильной, десктопной и планшетной версии.
 
-<img src="https://github.com/AnnaMandrik/95434-cat-energy-25/blob/master/img/promo.png" alt="keksobooking app">
+<img src="https://github.com/AnnaMandrik/95434-cat-energy-25/blob/master/source/img/promo.png" alt="keksobooking app">
 
 
 [Здесь](https://github.com/AnnaMandrik/95434-cat-energy-25) вы можете посмотреть код, написанный мной на **HTML/CSS** <br>
